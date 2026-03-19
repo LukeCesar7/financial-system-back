@@ -4,22 +4,6 @@ API REST desenvolvida em **Node.js + Express** com autenticação JWT e banco de
 
 ---
 
-## Tecnologias
-
-| Tecnologia | Versão | Uso |
-|---|---|---|
-| Node.js | 18+ | Runtime |
-| Express | ^4.19 | Framework HTTP |
-| PostgreSQL | 14+ | Banco de dados |
-| pg | ^8.12 | Driver PostgreSQL |
-| bcryptjs | ^2.4 | Hash de senhas |
-| jsonwebtoken | ^9.0 | Autenticação JWT |
-| dotenv | ^16.4 | Variáveis de ambiente |
-| cors | ^2.8 | Liberação de origens |
-| nodemon | ^3.1 | Hot reload em desenvolvimento |
-
----
-
 ## Estrutura do projeto
 
 ```
