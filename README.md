@@ -21,7 +21,7 @@ back/
 │   │   └── transacoes.js           # Rotas de transações
 │   └── server.js                   # Entrada da aplicação
 ├── banco.sql                       # Script de criação das tabelas
-├── .env.example                    # Modelo de variáveis de ambiente
+├── .env.example                    # Crie modelo de variáveis de ambiente (eu exclui por boas práticas)
 ├── package.json
 └── README.md
 ```
